@@ -1,5 +1,6 @@
 # EncryptedMessagingApp
-![Demo](https://github.com/user-attachments/assets/12e58f5b-5f46-47b0-aed1-d508f5a5ca66)
+
+![SimulatorScreenRecording-iPhone16-2025-07-20at10 49 31-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a594c306-5b5b-4a7a-8f4e-5bd665b1d493)
 
 A secure iOS messaging application built with Clean Architecture, featuring end-to-end RSA encryption and biometric authentication.
 
@@ -82,7 +83,6 @@ Business logic and application-specific rules.
 
 - Single responsibility per use case
 - Orchestrates services and repositories
-- Contains business rules and validation
 
 ### 🎨 **UI Layer**
 
