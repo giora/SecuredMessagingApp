@@ -181,7 +181,7 @@ DisplayMessageView → DisplayMessageViewModel → MessageRepository
 3. Build and run the project
 4. Ensure device supports biometric authentication for full functionality
 
-Note: RSA can only encrypt data up to a certain size based on the key size and padding scheme.
+** Note: RSA can only encrypt data up to a certain size based on the key size and padding scheme.
 With OAEP-SHA256 padding and a typical RSA key, you can only encrypt about 190 bytes directly.
 For longer messages, we need to implement hybrid encryption - using AES for the message and RSA for the AES key.
-But as I understood that wasn't part of the exercise
+But as I understood that wasn't part of the exercise **
