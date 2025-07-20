@@ -1,6 +1,6 @@
 # EncryptedMessagingApp
 
-![SimulatorScreenRecording-iPhone16-2025-07-20at10 49 31-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a594c306-5b5b-4a7a-8f4e-5bd665b1d493)
+![Simulator Screen Recording - iPhone 16 - 2025-07-20 at 10 49 31](https://github.com/user-attachments/assets/95a772f3-25c9-4978-811a-759656f3a116)
 
 A secure iOS messaging application built with Clean Architecture, featuring end-to-end RSA encryption and biometric authentication.
 
