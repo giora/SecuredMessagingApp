@@ -1,4 +1,5 @@
 # EncryptedMessagingApp
+![Demo](https://github.com/user-attachments/assets/12e58f5b-5f46-47b0-aed1-d508f5a5ca66)
 
 A secure iOS messaging application built with Clean Architecture, featuring end-to-end RSA encryption and biometric authentication.
 
